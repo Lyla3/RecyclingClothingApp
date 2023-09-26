@@ -13,7 +13,7 @@
 
 - 기술 스택 
   - 개발 환경
-    - iOS: swift5, xcode 14.2
+    - iOS: swift5, xcode 14.2, UIKit
   - 라이브러리
     - KakaoMap API (REST API, Maps API)
     - Deployment Target : iOS 15.3
